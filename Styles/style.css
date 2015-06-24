@@ -76,6 +76,9 @@ Sidebar
   min-height: 70px;
 }
 
+.preview a:hover .preview-title p{
+  color: blue;
+}
 
 .preview-title p{
   margin-bottom: 0;
