@@ -29,9 +29,22 @@ header{
   margin-top: 10px;
 }
 
+.search{
+  float: right;
+  margin-left: 20px;
+}
+
+.search img{
+  margin-left: -5px;
+  margin-top: 20px;
+  margin-bottom: -10px;
+}
+
+
 .header-left input{
   width: 500px;
-
+  height: 24px;
+  margin-bottom: 10px;
 }
 
 .header-right{
@@ -42,7 +55,28 @@ header{
 
 .header-right a{
   text-decoration: none;
-  border: 1px solid black;
+  border: 1px solid #D3D3D3;
+  margin-right: 20px;
+}
+
+.header-right > a:first-child{
+  background-color: #F8F8F8;
+  color: black;
+}
+
+.header-right > a:first-child:hover{
+  background-color: #F0F0F0;
+  color: black;
+}
+
+.header-right >a:nth-child(2){
+  background-color: #167AC6;
+  color: white;
+}
+
+.header-right >a:nth-child(2):hover{
+  background-color: #126DB3;
+  color: white;
 }
 
 /*
