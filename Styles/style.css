@@ -148,3 +148,38 @@ footer ul{
 footer ul li{
   display: inline;
 }
+
+footer .footer-options li img, .footer-options a img{
+  margin-right: 15px;
+  margin-bottom: 10px;
+}
+
+.footer-links{
+  margin-bottom: 2px;
+}
+
+footer .footer-links li a{
+  color: black;
+  text-decoration: none;
+  margin-right: 10px;
+}
+
+footer .footer-links li a:hover{
+  color: blue;
+  text-decoration: underline;
+}
+
+.footer-info{
+  margin-top: 2px;
+}
+
+footer .footer-info li a{
+  color: gray;
+  text-decoration: none;
+  font-size: 12px;
+}
+
+footer .footer-info li a:hover{
+  color:blue;
+  text-decoration: underline;
+}
