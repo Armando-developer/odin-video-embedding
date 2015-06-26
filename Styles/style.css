@@ -93,6 +93,10 @@ Container
   padding-top: 50px;
 }
 
+.inner-cont{
+  margin: 15px 15px 15px 15px;
+}
+
 /*
 Sidebar
 */
