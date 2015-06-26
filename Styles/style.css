@@ -98,6 +98,26 @@ Container
 }
 
 /*
+Info
+*/
+
+/*
+Desc
+*/
+
+.showmore a{
+  width: 100%;
+  display: block;
+  text-align: center;
+  text-decoration: none;
+  color: #767676;
+}
+
+.showmore a:hover{
+  color: black;
+}
+
+/*
 Sidebar
 */
 
