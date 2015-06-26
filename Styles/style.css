@@ -112,6 +112,15 @@ Info
   margin-bottom: 0;
 }
 
+.creator-info a{
+  color: black;
+  text-decoration: none;
+}
+
+.creator-info a:hover{
+  text-decoration: underline;
+}
+
 .views{
   float: right;
 }
@@ -238,6 +247,28 @@ Comments
   background-color: white;
   box-shadow: 0px 1px 1px gray;
   width: 854px;
+}
+
+#comments:first-child a{
+  text-decoration: none;
+}
+
+#allcomments a{
+  color: #666666;
+}
+
+#allcomments a:hover{
+  text-decoration: underline;
+}
+
+#comments input{
+  width: 50%;
+  height: 40px;
+  margin-bottom: 20px;
+}
+
+#topcomments{
+  margin-bottom: 20px;
 }
 
 /*
