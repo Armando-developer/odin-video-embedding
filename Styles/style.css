@@ -53,36 +53,8 @@ header{
   margin-top: 10px;
 }
 
-.header-right span{
-  text-decoration: none;
-  border: 1px solid #D3D3D3;
-  margin-right: 20px;
-}
-
-.header-right span a{
-  text-decoration: none;
-  width: 2em;
-  height: 2em;
-}
-
-.upload a{
-  background-color: #F8F8F8;
-  color: black;
-}
-
-.upload a:hover{
-  background-color: #F0F0F0;
-  color: black;
-}
-
-.signin a{
-  background-color: #167AC6;
-  color: white;
-}
-
-.signin a:hover{
-  background-color: #126DB3;
-  color: white;
+.header-right img{
+  margin-right: 10px;
 }
 
 /*
