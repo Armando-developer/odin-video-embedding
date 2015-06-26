@@ -95,6 +95,8 @@ Container
 
 .inner-cont{
   margin: 15px 15px 15px 15px;
+  padding-top: 5px;
+  padding-bottom: 5px;
 }
 
 /*
