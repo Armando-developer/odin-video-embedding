@@ -271,6 +271,63 @@ Comments
   margin-bottom: 20px;
 }
 
+.comment{
+  padding-bottom: 30px;
+}
+
+.comment a{
+  color: #5C8EE9;
+}
+
+.comment img{
+  float: left;
+  margin-right: 10px;
+}
+
+.comment-footer li{
+  display: inline;
+  float: left;
+  margin-right: 10px;
+}
+
+.comment-footer{
+  padding-left: 0;
+}
+
+#reply{
+  color: #7F7F7F;
+}
+
+#reply:hover{
+  color:#555555;
+}
+
+.comment-creator{
+  margin-bottom: 5px;
+  padding-left: 0;
+}
+
+.comment-creator li{
+  display: inline;
+  margin-bottom: 0;
+}
+
+.post{
+  margin-left: 60px;
+}
+
+#post-date{
+  color:#767676;
+}
+
+#post-date:hover{
+  text-decoration: underline;
+}
+
+#comment-post{
+  margin-top: 0;
+}
+
 /*
 Footer
 */
