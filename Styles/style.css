@@ -105,6 +105,18 @@ Info
 Desc
 */
 
+tr td:nth-child(even){
+  padding-left: 20px;
+}
+
+td a{
+  text-decoration: none;
+}
+
+td a:hover{
+  text-decoration: underline;
+}
+
 .showmore a{
   width: 100%;
   display: block;
