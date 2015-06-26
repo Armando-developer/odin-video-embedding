@@ -107,6 +107,14 @@ Info
 Desc
 */
 
+#desc h4{
+  margin-bottom: 0;
+}
+
+#desc p{
+  margin-top: 0;
+}
+
 tr td:nth-child(even){
   padding-left: 20px;
 }
