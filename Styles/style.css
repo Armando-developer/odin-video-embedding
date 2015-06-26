@@ -103,6 +103,24 @@ Container
 Info
 */
 
+.info-footer{
+  min-height: 50px;
+}
+
+.info-footer ul li {
+  display: inline;
+}
+
+.support{
+  float:left;
+  padding-left: 0;
+}
+
+.thumbs{
+  float: right;
+
+}
+
 /*
 Desc
 */
