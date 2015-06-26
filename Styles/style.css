@@ -103,6 +103,19 @@ Container
 Info
 */
 
+#creator-img{
+  float: left;
+  margin-right: 10px;
+}
+
+.creator-info p{
+  margin-bottom: 0;
+}
+
+.views{
+  float: right;
+}
+
 .info-footer{
   min-height: 50px;
 }
